@@ -1,3 +1,17 @@
+
+
+# Weather App
+
+This is a Weather Application developed using **HTML**, **CSS**, and **JavaScript**. The app allows users to check the current weather, temperature, and other details for a specified location, using real-time weather data from an API.
+
+## Features
+
+- **Real-Time Weather Data**: Get current weather information for any city.
+- **Weather Details**: Displays temperature, humidity, and weather conditions.
+- **Error Handling**: Displays user-friendly error messages for invalid city names or network issues.
+## ScreenShots
+![Screenshot 2024-11-12 214058](https://github.com/user-attachments/assets/0c6fcf03-d0f2-4dc6-be98-21f7b14fe9ac)
+
 # Calculator Project
 
 This is a simple calculator application built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations and features a clean, user-friendly interface.
